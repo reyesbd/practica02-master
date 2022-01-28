@@ -2,5 +2,4 @@
 MANUAL DE IMPLEMENTACIÓN
 Favor de verificar la información de deploytment
 
-Este manual tiene fecha de implementación de febrero 2022
 */
